@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,Infinix X650B,1761389247452,2025-10-25_10-47-27,Africa/Kigali,android,1.47.1,b5f56916-37b6-476a-b8e1-c8be0c149a8d,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10|10,false
